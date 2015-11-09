@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Haiku</string>
+    <string name="haiku">Hello World!</string>
+    <string name="love_button_text">Show me some android love!</string>
 </resources>
